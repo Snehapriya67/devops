@@ -1,6 +1,4 @@
 
-Delete me !!!!
-
 Addressbook Tutorial
 ====================
 
